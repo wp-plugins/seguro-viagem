@@ -2,8 +2,8 @@
 Contributors: Real Seguro Viagem
 Tags: seguro de viagem, programa de afiliação, affiliate, travel, insurance, afiliado, afiliados
 Requires at least: 3.5
-Tested up to: 4.2.2
-Stable tag: 4.2.2
+Tested up to: 4.3
+Stable tag: 4.3
 License: GPLv2 or later
 
 

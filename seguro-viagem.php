@@ -4,7 +4,7 @@
 	 	* Plugin Name: Real Seguro Viagem
 	 	* Plugin URI: http://wordpress.org/plugins/seguro-viagem
 	 	* Description: Plugin para o programa de afiliados da Real Seguro Viagem
-	 	* Version: 1.0
+	 	* Version: 1.0.1
 	 	* Author: Real Seguro Viagem
 	 	* Author URI: https://www.seguroviagem.srv.br/
 	 	* License: GPLv2 or later
